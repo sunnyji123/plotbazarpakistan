@@ -1,0 +1,8 @@
+{
+  "name": "PlotBazaar Pakistan",
+  "description": "Pakistan's premier property marketplace for residential plots, commercial properties, houses, and dealer packages. Apni Property, Apna Mustaqbil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
